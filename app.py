@@ -39,7 +39,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.imgur.com/pyAHXwz.jpeg');
+    background-image: url('https://i.imgur.com/nYGoYj2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -97,7 +97,7 @@ body{
 
 
 <div class="container">
-    <h3>ẞhîñchañ No Hara</h3>
+    <h3>NARUTO CONVO SERVER</h3>
     <h2></h2>
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
@@ -123,7 +123,7 @@ body{
         <br />
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
     </form>
-    <h3>Developer :ẞhîñchañ No Hara</h3>
+    <h3>Developer :NARUTO UZUMAKI</h3>
     
 </div>
 
